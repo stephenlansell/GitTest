@@ -1,5 +1,7 @@
 <?php
 
+// A test
+
 require("common.php");
 $db = db_connect();
 
