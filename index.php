@@ -1,6 +1,6 @@
 <?php
 
-// A test
+// A second test after the first release
 
 require("common.php");
 $db = db_connect();
